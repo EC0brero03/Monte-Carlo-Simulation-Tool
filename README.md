@@ -27,6 +27,9 @@ This application estimates the probability \( P(X < 0.5) \) using uniformly dist
 2. Click `Start Simulation`
 3. View convergence graph and probability output
 
+## Example Output
+![GUI Preview](Screenshot/Example-Output.png)
+
 ## Authors
 
 - Lee Ivan Sahurda  
