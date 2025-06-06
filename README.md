@@ -30,8 +30,17 @@ This application estimates the probability \( P(X < 0.5) \) using uniformly dist
 ## Example Output
 ![GUI Preview](Screenshot/Example-Output.png)
 
-## Authors
+## Mathematical Implementations
+Monte Carlo Method
+This simulation uses the basic principle of Monte Carlo integration:
+•	Generate 𝑁 N uniform random numbers 𝑥∈[0,1)x∈[0,1)
+•	Count how many of them are less than 0.5
+•	Estimate the probability as: 
 
+![Formula](Screenshot/Formula.png)
+
+## Authors
+[n% I = w]
 - Lee Ivan Sahurda  
 - John Gilbert Balbuena  
 - Emmanuelle Christian Obrero
