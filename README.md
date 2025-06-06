@@ -6,6 +6,10 @@ A modern Java GUI application for visualizing the convergence of Monte Carlo sim
 
 This application estimates the probability \( P(X < 0.5) \) using uniformly distributed samples in [0,1). It features real-time plotting, responsive controls, and professional UI styling using Java Swing.
 
+## Execution
+
+To run the file Click MonteCarloSimulation.jar
+
 ## Core Functionality
 
 - Objective: Estimate (𝑋<0.5)P(X<0.5) by simulating a large number of samples.
